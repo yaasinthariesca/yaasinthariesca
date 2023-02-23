@@ -2,7 +2,7 @@
 
 👋 Hi Everyone, I’m Yaasintha
 
-an Informatics Engineering Student with a focus on data science. I'm excited to apply my passion for data science and contribute my abilities in quantitative modeling and experimentation. 
+an Informatics Student with a focus on data science. I'm excited to apply my passion for data science and contribute my abilities in quantitative modeling and experimentation. 
 
 📍 I'm currently an Informatics Engineering Student  at from the University of Pembangunan Nasional Veteran Jakarta
 
