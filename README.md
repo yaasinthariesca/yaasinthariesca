@@ -6,7 +6,7 @@ an Informatics Student with a focus on data science. I'm excited to apply my pas
 
 📍 I'm currently an Informatics Engineering Student  from the University of Pembangunan Nasional Veteran Jakarta
 
-📊 I'm interested in data integrity, visualization, and statistical analysis.
+📊 I'm interested in data science, visualization and analysis and machine learning.
 
 🌱 I’m currently focused learning on data science that involves data mining, machine learning, and predictive analytics.
 
