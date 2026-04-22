@@ -1,16 +1,24 @@
-# My-Profile
+🚀 Informatics graduate with a strong interest in AI, Data Science, and Machine Learning, passionate about building real-world solutions that solve business problems.
 
-👋 Hi Everyone, I’m Yaasintha
+📍 Based in Indonesia 
 
-an Informatics Student with a focus on data science. I'm excited to apply my passion for data science and contribute my abilities in quantitative modeling and experimentation. 
+💡 I specialize in developing:
 
-📍 I'm currently an Informatics Student  from the University of Pembangunan Nasional Veteran Jakarta
+AI Agents & LLM-based applications
+Workflow Automation (n8n)
+Data-driven solutions & predictive models
 
-📊 I'm interested in data science, visualization and analysis and machine learning.
+🧠 Experienced in working with modern AI technologies such as OpenAI, Gemini and tools like LangChain, Qdrant along with cloud platforms (GCP & Azure services).
 
-🌱 I’m currently focused learning on data science that involves data mining, machine learning, and predictive analytics.
+📊 My interests include:
 
-📌 Let's be friends and learn together
+Data Science & Analytics
+Machine Learning & AI Systems
+Data Visualization & Insights
+
+🌱 Currently exploring deeper into AI systems, RAG architectures, and scalable AI solutions
+
+🤝 Open to collaboration, learning, and building impactful projects together
 
 📫 Reach me 
 https://www.linkedin.com/in/yaasintha/
