@@ -1,4 +1,5 @@
 👋 Hi, I’m Yaasintha
+
 🚀 Informatics graduate with a strong interest in AI, Data Science, and Machine Learning, passionate about building real-world solutions that solve business problems.
 
 📍 Based in Jakarta, Indonesia 
