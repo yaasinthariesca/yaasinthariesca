@@ -1,4 +1,5 @@
 👋 Hi, I’m Yaasintha
+
 Informatics graduate who enjoys building things with AI, data, and automation.
 
 💡 I work on:
