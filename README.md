@@ -1,24 +1,20 @@
 👋 Hi, I’m Yaasintha
+Informatics graduate who enjoys building things with AI, data, and automation.
 
-🚀 Informatics graduate with a strong interest in AI, Data Science, and Machine Learning, passionate about building real-world solutions that solve business problems.
+💡 I work on:
+- AI Agents & LLM-based apps
+- Workflow automation (n8n)
+- Data-driven & machine learning projects
 
-📍 Based in Jakarta, Indonesia 
+🛠️ Tech I use:
+OpenAI, Gemini, LangChain, Qdrant, Pinecone, GCP, Azure
 
-💡 I specialize in developing:
-- AI Agents & LLM-based applications
-- Workflow Automation (n8n)
-- Data-driven solutions & predictive models
+📊 Interested in:
+AI, Data Science, Machine Learning, and Data Visualization
 
-🧠 Experienced in working with modern AI technologies such as OpenAI, Gemini and tools like LangChain, Qdrant along with cloud platforms (GCP & Azure services).
+🌱 Currently learning more about RAG systems and scalable AI
 
-📊 My interests include:
-- Data Science & Analytics
-- Machine Learning & AI Systems
-- Data Visualization & Insights
-
-🌱 Currently exploring deeper into AI systems, RAG architectures, and scalable AI solutions
-
-🤝 Open to collaboration, learning, and building impactful projects together
+🤝 Open to collaborate and learn together
 
 📫 Reach me 
 https://www.linkedin.com/in/yaasintha/
